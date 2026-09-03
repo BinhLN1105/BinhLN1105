@@ -1,19 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Binh%20(L%C6%B0u%20Nh%E1%BA%ADt%20B%C3%ACnh)%20%F0%9F%91%8B&fontSize=34&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Integrations%20%E2%80%A2%20Scalable%20System%20Builder&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Binh%20(L%C6%B0u%20Nh%E1%BA%ADt%20B%C3%ACnh)%20%F0%9F%91%8B&fontSize=34&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Integrations%20%E2%80%A2%20Scalable%20System%20Builder&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/BinhLN1105">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38C2FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=110&lines=%F0%9F%9A%80+Backend+Developer+%26+Software+Engineer;%E2%9A%A1+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;%F0%9F%A4%96+AI+Integration+%26+RAG+Pipelines+(Gemini+%26+Python);%F0%9F%8C%90+Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=38C2FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=110&lines=%F0%9F%9A%80+Backend+Developer+%26+Software+Engineer;%E2%9A%A1+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;%F0%9F%A4%96+AI+Integration+%26+RAG+Pipelines;%F0%9F%8C%90+Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luubinhbeo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binh-luu-nhat)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/binh.luunhat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-react-git-main-lnbs-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-react-gamma-two.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinhLN1105)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BinhLN1105&color=00d2ff&style=flat-square&label=Profile+Views)
@@ -30,7 +31,7 @@
 public class Binh {
     private final String name = "Lưu Nhật Bình";
     private final String role = "Backend Software Engineer & IT Student";
-    private final String location = "Vietnam 🇻🇳";
+    private final String location = "Vietnam";
     private final String[] coreStack = {"Java", "Spring Boot", "Docker", "MySQL", "React", "AI / RAG"};
 
     public String getPassion() {
@@ -46,7 +47,7 @@ public class Binh {
 - 🔭 **Current Focus:** Developing scalable enterprise platforms, distributed microservices, and AI-assisted workflows.
 - 🤖 **AI & Cloud Engineering:** Integrating LLMs (Google Gemini, LangChain), vector search (RAG pipelines), and containerized deployments.
 - 💡 **Core Strengths:** Clean Architecture, Domain-Driven Design, Database Optimization, RESTful API design & Secure Authentication.
-- 🌱 **Continuous Learning:** Advanced System Design, Kubernetes, Cloud Native DevOps, and High-Concurrency Patterns.
+- 🌱 **Continuous Learning:** Advanced System Design, Docker, Cloud Native DevOps, and High-Concurrency Patterns.
 - ⚡ **Fun Fact:** *"There are 10 types of people in the world: those who understand binary, and those who don't."* 😄
 
 ---
@@ -55,12 +56,12 @@ public class Binh {
 
 ### ☕ Backend & Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,express,python,js&perline=8" alt="Backend & Core Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,javascript&perline=8" alt="Backend & Core Languages" />
 </p>
 
 ### 🎨 Frontend & Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,vite,tailwind,html,css,bootstrap&perline=8" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,vite,tailwind,html,css&perline=8" alt="Frontend & Mobile" />
 </p>
 
 ### 🧠 AI & Intelligent Systems
@@ -78,7 +79,7 @@ public class Binh {
 
 ### 🔧 DevOps, Cloud & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,idea,vscode,vercel&perline=8" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,vercel,azure&perline=8" alt="Tools & DevOps" />
 </p>
 
 ---
@@ -98,11 +99,13 @@ public class Binh {
 ![Android](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Python AI](https://img.shields.io/badge/AI_Semantic_Search-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 
 Hệ thống đặt vé xem phim toàn diện bao gồm Backend Spring Boot, Web Client React, ứng dụng Mobile Android (Kotlin) và công cụ tìm kiếm ngữ nghĩa thông minh (Semantic Search AI).
 
 - ⚡ Đặt vé thời gian thực, quản lý sơ đồ ghế và thanh toán trực tuyến.
-- 🤖 Tìm kiếm phim bằng mô tả ngữ nghĩa dựa trên AI.
+- 🤖 Trợ lí ảo hỗ trợ tìm kiếm, tư vấn, đặt vé phim.
 
 **[🔗 GitHub Repository](https://github.com/BinhLN1105/Nova-Cinema-Ticket-Booking) | [🌐 Live Demo](https://nova-ticket.vercel.app)**
 
@@ -150,21 +153,23 @@ Nền tảng thương mại & quản lý chuyên sâu cho đại lý xe điện 
 </td>
 <td width="50%" valign="top">
 
-### 📰 News Summary - Automated AI Pipeline
-**Hệ thống cào & tóm tắt tin tức tự động bằng AI**
+### 🚦 Traffic Accident Reporter - AI Video & Incident Analysis
+**Hệ thống phát hiện & phân tích tai nạn giao thông thời gian thực**
 
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8_Vision-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
 ![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/Web_Scraper-38B2AC?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Hệ thống tự động cào tin tức thời sự hàng ngày từ các nguồn báo chí uy tín tại Việt Nam (VnExpress, Thanh Niên, Báo Mới), xử lý dữ liệu và sử dụng Gemini AI để tạo bản tóm tắt súc tích, khách quan.
+Hệ thống phân tích video và phát hiện sự cố giao thông tự động. Kết hợp mô hình Computer Vision YOLOv8 trên luồng WebRTC thời gian thực, Backend Spring Boot điều phối dữ liệu và Google Gemini AI tự động lập biên bản báo cáo hiện trường.
 
-- ⚡ Pipeline tự động phân loại chủ đề và phát hiện tin nóng.
-- 🤖 Tóm tắt đa văn bản theo bullet points nhanh chóng.
+- ⚡ Hỗ trợ phân tích video hàng loạt (Batch Mode) & giám sát camera trực tiếp (Live Stream WebRTC).
+- 🤖 Tự động nhận diện va chạm, lưu trữ snapshot bằng chứng và tạo báo cáo chi tiết bằng AI.
 
-**[🔗 GitHub Repository](https://github.com/BinhLN1105/News_Summary)**
+**[🔗 GitHub Repository](https://github.com/BinhLN1105/Traffic-Accident-Reporter)**
 
 </td>
 </tr>
@@ -208,17 +213,11 @@ Hệ thống tự động cào tin tức thời sự hàng ngày từ các ngu�
 ## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60" alt="Pull Shark" title="Pull Shark"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60" alt="Quickdraw" title="Quickdraw"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60" alt="Starstruck" title="Starstruck"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="60" alt="Arctic Code Vault" title="Arctic Code Vault"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60" alt="YOLO" title="YOLO"/>
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="85" alt="YOLO" title="YOLO"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="85" alt="Pull Shark (x2)" title="Pull Shark (x2)"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="85" alt="Quickdraw" title="Quickdraw"/>
 </div>
 
 ---
